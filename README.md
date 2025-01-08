@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="350" src="https://raw.githubusercontent.com/NissanJK/NissanJK/refs/heads/main/github.jpg"  />
-</div>
+![Github Banner](/github.jpg)
 
 ###
 
@@ -8,11 +6,14 @@
   <a href="https://www.linkedin.com/in/jawadul-karim-612a18318/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Nissan_JK28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="mailto:jawadul.karim78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/jawadul.karim.3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/Nissan_JK28" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -24,7 +25,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 This is Jawadul Karim</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&repeat=false&width=435&lines=hey+there+%F0%9F%91%8B+This+is+Jawadul+Karim" alt="Typing SVG" /></a></h1>
 
 ###
 
@@ -72,3 +73,5 @@
 </div>
 
 ###
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" /> </h1> 
