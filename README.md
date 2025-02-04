@@ -41,7 +41,7 @@
 - 🔨 Working on **a tourism website**.
 - 🌱 Exploring **Next.js** 
 
----
+
 
 ## 🛠 Languages & Tools
 
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter" height="40" alt="Mobile Development" />
 </div>
 
----
+
 
 ## 🔥 GitHub Stats
 
@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanjk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" />
