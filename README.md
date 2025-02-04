@@ -23,11 +23,8 @@
 
 ---
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&repeat=false&width=435&lines=Hey+there+%F0%9F%91%8B+This+is+Jawadul+Karim" alt="Typing SVG" />
-  </a>
-</h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&repeat=false&width=435&lines=hey+there+%F0%9F%91%8B+This+is+Jawadul+Karim" alt="Typing SVG" /></a></h1>
 
 ## 👩‍💻 About Me
 
