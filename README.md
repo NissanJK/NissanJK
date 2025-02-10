@@ -35,7 +35,6 @@
 
 ## 🚀 Current Activities
 
-- 🔨 Working on **a tourism website**.
 - 🌱 Exploring **Next.js** 
 
 
