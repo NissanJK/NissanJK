@@ -1,80 +1,117 @@
-![Github Banner](/banner.png)
+<div align="center">
+  <img src="/banner.png" alt="Banner" width="100%" />
+</div>
 
-###
+<br/>
 
+<!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/jawadul-karim-612a18318/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="mailto:jawadul.karim78@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
   <a href="https://www.facebook.com/jawadul.karim.3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" />
-  </a>
-  <a href="https://x.com/Nissan_JK28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>&nbsp;
+  <!-- <a href="https://x.com/Nissan_JK28" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a> -->
 </div>
 
-###
+<br/>
 
+<!-- Typing animation -->
 <!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nissanjk.nissanjk" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=620&lines=Hi+there%2C+I'm+Jawadul+Karim+%F0%9F%91%8B;Junior+Web+Developer+%7C+Bangladesh;MERN+Stack+%7C+Flutter+%7C+Next.js" alt="Typing SVG"/>
 </div> -->
-
-###
-
-
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=1000&repeat=false&width=435&lines=hey+there+%F0%9F%91%8B+This+is+Jawadul+Karim" alt="Typing SVG" /></a></h1>
-
-###
-
-### 👩‍💻 About Me
-
-- 🌍 I'm a **Junior Web Developer** from **Bangladesh**.
-- 🎓 Currently a student at **International Islamic University Chittagong**.
-- 📌 Passionate about web development and learning new technologies.
-- 📖 In my free time, I enjoy reading **light novels**.
-
-###
-
-### 🚀 Current Activities
-
-- 🌱 Exploring **Next.js** 
-
-###
-
-### 🛠 Languages & Tools
-
-#### 💻 Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" height="40" alt="Frontend Technologies" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=620&lines=Hi+there%2C+I'm+Jawadul+Karim+%F0%9F%91%8B;Junior+Web+Developer+%7C+Bangladesh;MERN+Stack" alt="Typing SVG"/>
 </div>
 
-#### 🗄️ Backend & Database
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase" height="40" alt="Backend Technologies" />
+<br/>
+
+<!-- Profile views + followers -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nissanjk&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/nissanjk?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers"/>
 </div>
 
-#### 📱 Mobile Development
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name:       Jawadul Karim
+location:   Bangladesh
+education:  International Islamic University Chittagong
+role:       Junior Web Developer
+stack:      MERN
+learning:   Next.js
+hobbies:    [Reading Light Novels, Building Projects]
+```
+
+---
+
+## 🚀 Current Focus
+
+- 🌱 Diving deeper into **Next.js**
+- 🔨 Building full-stack web apps with the **MERN stack**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
 <div>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" height="40" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&theme=dark" height="40" alt="Frontend"/>
 </div>
 
-###
+**Backend & Database**
 
-### 🔥 GitHub Stats
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" height="40" alt="Backend"/>
+</div>
+
+**Mobile**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark" height="40" alt="Mobile"/>
+</div>
+
+**Tools & Workflow**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="40" alt="Tools"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nissanjk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanjk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nissanjk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanjk&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
-###
+<br/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Thanks+for+Visiting+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nissanjk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak"/>
+</div>
 
-###
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nissanjk&theme=github-compact&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by Jawadul Karim</sub>
+</div>
