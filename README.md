@@ -93,21 +93,17 @@ hobbies:    [Reading Light Novels, Building Projects]
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nissanjk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanjk&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=nissanjk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480" alt="GitHub Streak"/>
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nissanjk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nissanjk&theme=github_dark" width="240" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nissanjk&theme=github_dark" width="240" alt="Top Languages"/>
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nissanjk&theme=github-compact&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nissanjk&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Graph" width="96%" alt="Contribution Graph"/>
 </div>
 
 ---
